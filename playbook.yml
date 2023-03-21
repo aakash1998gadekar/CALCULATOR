@@ -6,14 +6,14 @@
   tasks:
     - name: Pull Docker Image
       docker_image:
-        name: rahulsharma4578/calculator
+        name: aakash1998gadekar/spe-mini
         tag: latest
         source: pull
 
     - name: Create & Start Calculator Docker Container
       docker_container:
-        name: rahulsharma4578
-        image: rahulsharma4578/calculator
+        name: aakash1998gadekar
+        image: aakash1998gadekar/spe-mini 
         state: started
         tty: yes
         interactive: yes
