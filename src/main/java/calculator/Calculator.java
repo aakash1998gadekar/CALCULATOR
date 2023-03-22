@@ -29,11 +29,11 @@ Calculator {
             System.out.println("Calculator-DevOps, Choose to perform operation");
             System.out.print(
                     "Enter 1 to find Factorial\n" +
-                            "Enter 2 to find Square Root\n" +
-                            "Enter 3 to find Power\n" +
-                            "Enter 4 to find Natural Logarithm\n" +
-                            "Enter any other input to Exit\n" +
-                            "Enter your choice: "
+                    "Enter 2 to find Square Root\n" +
+                    "Enter 3 to find Power\n" +
+                    "Enter 4 to find Natural Logarithm\n" +
+                    "Enter any other input to Exit\n" +
+                    "Please Enter your choice: "
             );
 
             int choice;
