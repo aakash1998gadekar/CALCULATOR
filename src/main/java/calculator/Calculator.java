@@ -33,7 +33,7 @@ Calculator {
                     "Enter 3 to find Power\n" +
                     "Enter 4 to find Natural Logarithm\n" +
                     "Enter any other input to Exit\n" +
-                    "please enter  choice: "
+                    "please enter your choice: "
             );
 
             int choice;
