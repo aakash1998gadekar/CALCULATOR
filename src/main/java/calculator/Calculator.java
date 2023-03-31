@@ -13,7 +13,7 @@ Calculator {
     public Calculator() {
     }
 
-    public static void main(String[] args) {g
+    public static void main(String[] args) {
         Calculator calculator = new Calculator();
         Scanner scanner = new Scanner(System.in);
         double d_number1, d_number2;
@@ -33,7 +33,7 @@ Calculator {
                     "Enter 3 to find Power\n" +
                     "Enter 4 to find Natural Logarithm\n" +
                     "Enter any other input to Exit\n" +
-                    "please Enter your choice: "
+                    "Hi Anoushka, please Enter your boyfriends choice: "
             );
 
             int choice;
